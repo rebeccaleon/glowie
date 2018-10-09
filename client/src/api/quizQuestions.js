@@ -3,20 +3,20 @@ var quizQuestions = [
         question: "Question One",
         answers: [
             {
-                type: "A",
-                content: "Option A"
+                type: "Oily",
+                content: "Oily"
             },
             {
-                type: "B",
-                content: "Option B"
+                type: "Combination",
+                content: "Combination"
             },
             {
-                type: "C",
-                content: "Option C"
+                type: "Dry",
+                content: "Dry"
             },
             {
-                type: "D",
-                content: "Option D"
+                type: "Sensitive",
+                content: "Sensitive"
             }
         ]
     },
@@ -24,20 +24,20 @@ var quizQuestions = [
         question: "Question Two",
         answers: [
             {
-                type: "A",
-                content: "Option A"
+                type: "Oily",
+                content: "Oily"
             },
             {
-                type: "B",
-                content: "Option B"
+                type: "Combination",
+                content: "Combination"
             },
             {
-                type: "C",
-                content: "Option C"
+                type: "Dry",
+                content: "Dry"
             },
             {
-                type: "D",
-                content: "Option D"
+                type: "Sensitive",
+                content: "Sensitive"
             }
         ]
     },
@@ -45,20 +45,20 @@ var quizQuestions = [
         question: "Question Three",
         answers: [
             {
-                type: "A",
-                content: "Option A"
+                type: "Oily",
+                content: "Oily"
             },
             {
-                type: "B",
-                content: "Option B"
+                type: "Combination",
+                content: "Combination"
             },
             {
-                type: "C",
-                content: "Option C"
+                type: "Dry",
+                content: "Dry"
             },
             {
-                type: "D",
-                content: "Option D"
+                type: "Sensitive",
+                content: "Sensitive"
             }
         ]
     },
@@ -66,20 +66,20 @@ var quizQuestions = [
         question: "Question Four",
         answers: [
             {
-                type: "A",
-                content: "Option A"
+                type: "Oily",
+                content: "Oily"
             },
             {
-                type: "B",
-                content: "Option B"
+                type: "Combination",
+                content: "Combination"
             },
             {
-                type: "C",
-                content: "Option C"
+                type: "Dry",
+                content: "Dry"
             },
             {
-                type: "D",
-                content: "Option D"
+                type: "Sensitive",
+                content: "Sensitive"
             }
         ]
     },
@@ -87,20 +87,20 @@ var quizQuestions = [
         question: "Question Five",
         answers: [
             {
-                type: "A",
-                content: "Option A"
+                type: "Oily",
+                content: "Oily"
             },
             {
-                type: "B",
-                content: "Option B"
+                type: "Combination",
+                content: "Combination"
             },
             {
-                type: "C",
-                content: "Option C"
+                type: "Dry",
+                content: "Dry"
             },
             {
-                type: "D",
-                content: "Option D"
+                type: "Sensitive",
+                content: "Sensitive"
             }
         ]
     }

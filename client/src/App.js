@@ -15,10 +15,10 @@ class App extends Component {
      answerOptions: [],
      answer: '',
      answersCount: {
-      A: 0,
-      B: 0,
-      C: 0,
-      D: 0
+      Oily: 0,
+      Combination: 0,
+      Dry: 0,
+      Sensitive: 0
      },
      result: ''
     };
@@ -124,12 +124,15 @@ class App extends Component {
     return (
       <div className="App">
         <div className="App-header">
+        <h1>Ready to Glow?</h1>
+        <p>Cat ipsum dolor sit amet, damn that dog and you call this cat food Gate keepers of hell. Eat and than sleep on your face pet my belly, you know you want to; seize the hand and shred it!</p>
+        </div>
+        <div className="Quiz-header">
           <h2>Skin Quiz</h2>
-          <p>Better skin start here.</p>
-          <p>Take this quiz to learn your skin type!</p>
+          <p>Better skin start here. Take this quiz to learn your skin type!</p>
         </div>
         <div className="Quiz">
-        {this.state.result ? this.renderResult() : this.renderQuiz()}
+          {this.state.result ? this.renderResult() : this.renderQuiz()}
         </div>
       </div>
     )

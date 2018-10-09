@@ -1,16 +1,45 @@
-  .App-header {
+ .App-header {
     background-color: #5C1F97;
     padding: 20px;
     color: #F3EEEC;
-    text-align: center;
+    text-align: left;
+  }
+
+  .App-header h1 {
+    font-family: 'Oswald';
+    font-size: 3.5em;
   }
   
   .App-intro {
     font-size: large;
   }
 
+  .Quiz-header {
+    background-color: #F3EEEC;
+  }
+
+  .Quiz-header h2 {
+    font-family: 'Pacifico';
+    font-size: 3em;
+    color: #5C1F97;
+    text-align: center;
+  }
+
+  .Quiz-header p {
+    font-family: 'Open Sans';
+    font-size: 1.5em;
+    text-align: center;
+  }
+
   .Quiz {
     background-color: #F3EEEC;
+    max-width: 960px;
+    margin: auto;
+  }
+
+  .result {
+    font-size: 1.8em;
+    color: #7382B9;
   }
   
   @keyframes spin {
