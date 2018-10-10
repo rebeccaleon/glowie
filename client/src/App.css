@@ -1,15 +1,22 @@
  .App-header {
-    background-color: #5C1F97;
-    padding: 20px;
+    background-color:#43186B;
     color: #F3EEEC;
     text-align: left;
+    padding: 25px 0;
   }
 
   .App-header h1 {
     font-family: 'Oswald';
-    font-size: 3.5em;
+    font-size: 3.8em;
+    max-width: 960px;
+    margin: auto;
   }
   
+  .App-header p {
+    max-width: 960px;
+    margin: auto;
+  }
+
   .App-intro {
     font-size: large;
   }
@@ -19,9 +26,9 @@
   }
 
   .Quiz-header h2 {
-    font-family: 'Pacifico';
+    font-family: 'Oswald';
     font-size: 3em;
-    color: #5C1F97;
+    color: #43186B;
     text-align: center;
   }
 

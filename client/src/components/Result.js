@@ -4,7 +4,7 @@ import PropTypes from 'prop-types';
 function Result(props) {
   return (
     <div className="result">
-      You have <strong>{props.quizResult}</strong> skin!
+      You have <strong>{props.quizResult}</strong> skin!<br/>
     </div>
   );
 }

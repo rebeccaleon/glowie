@@ -111,9 +111,9 @@
   
   .radioCustomButton:checked ~ .radioCustomLabel:before {
     content: '';
-    background: #8bc53f;
+    background: #9F9BD7;
     background-size: 27px;
-    border-color: #8bc53f;
+    border-color: #9F9BD7;
   }
   
   /* Animation */

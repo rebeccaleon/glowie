@@ -129,7 +129,8 @@ class App extends Component {
         </div>
         <div className="Quiz-header">
           <h2>Skin Quiz</h2>
-          <p>Better skin start here. Take this quiz to learn your skin type!</p>
+          <p>Happier skin starts here. <br/>
+            Take this quiz to learn your skin type!</p>
         </div>
         <div className="Quiz">
           {this.state.result ? this.renderResult() : this.renderQuiz()}
